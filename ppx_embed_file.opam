@@ -1,9 +1,9 @@
 opam-version: "2.0"
 maintainer: "Jane Street developers"
 authors: ["Jane Street Group, LLC"]
-homepage: "https://github.com/janestreet/ppx_embed_file"
-bug-reports: "https://github.com/janestreet/ppx_embed_file/issues"
-dev-repo: "git+https://github.com/janestreet/ppx_embed_file.git"
+homepage: "https://github.com/public-release-reloaded/ppx_embed_file"
+bug-reports: "https://github.com/public-release-reloaded/ppx_embed_file/issues"
+dev-repo: "git+https://github.com/public-release-reloaded/ppx_embed_file.git#v0.18_preview.130.100+614+reloaded"
 doc: "https://ocaml.janestreet.com/ocaml-core/latest/doc/ppx_embed_file/index.html"
 license: "MIT"
 x-maintenance-intent: ["(latest)"]
